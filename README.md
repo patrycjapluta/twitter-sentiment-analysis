@@ -5,7 +5,7 @@ In the first part (*sentimentAnalysis.ipynb*) I generated tokens to access Twitt
 # How to run
 - install dependencies from Pipfile,
 - have an account on Twitter Developers, 
-- open notebook by Jupyter or Google Colab.
+- open notebook in Jupyter or Google Colab.
 
 # What did I learn
 *I part*
