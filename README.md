@@ -1,5 +1,5 @@
 # Twitter-sentiment-analysis
-The project has two parts in which I worked on sentiment analysis based on data from Twitter and it's results of my participation in the Hacking Carrots Workshop concerning Data Science.
+The project has two parts (+one notebook with additonal exercises) in which I worked on sentiment analysis based on data from Twitter and it's results of my participation in the Hacking Carrots Workshop concerning Data Science.
 In the first part (*sentimentAnalysis.ipynb*) I generated tokens to access TwitterAPI and obtain tweets about Artificial Intelligence. Further I collected data into dictionaries and transform into DataFrame, which was cleaned and sentiment was calculated and results were visualized.
 
 # How to run
@@ -14,7 +14,11 @@ In the first part (*sentimentAnalysis.ipynb*) I generated tokens to access Twitt
 - conduct simple sentiment analysis,
 
 *II part*
-- words vectorization (bag of words and GloVe),
+- words tokenization,
+- frequency distribution of most used words,
+- words vectorization (bag of words),
 - train logistic regression model and interpret results,
-- train simple neural network.
+
+*additional part*
+(in progress)
 
